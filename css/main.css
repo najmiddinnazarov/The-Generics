@@ -209,3 +209,12 @@ img {
   margin: 0 20px;
 }
 /* Start About Html */
+.main__desc {
+  font-size: 18px;
+}
+.main__desc img {
+  float: left;
+  border-radius: 50%;
+  width: 270px;
+  padding: 9px;
+}
